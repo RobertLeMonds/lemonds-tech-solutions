@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 09/04/2019 10:10
+  	Creation date: 23/07/2019 23:10
   	*/
 
 @font-face {
@@ -26,9 +26,12 @@
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
         font-size: 30px;
-       font-style: normal;
-       color: #fff;
+font-style: normal;
+color: #fff;
 }
 
-.flaticon-growth:before { content: "\f100"; }
-.flaticon-wallet:before { content: "\f101"; }
+.flaticon-monitor:before { content: "\f100"; }
+.flaticon-tv:before { content: "\f101"; }
+.flaticon-wifi:before { content: "\f102"; }
+.flaticon-stereo:before { content: "\f103"; }
+.flaticon-hdd:before { content: "\f104"; }
